@@ -1,10 +1,40 @@
 body{
-    background-color: grey;
-    color: azure;
+    background-color: rgba(0, 0, 0, 0.952);
+    color: rgb(20, 240, 0);
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 IMG{
     width: 200PX;
+}
+a{
+    padding: 20px;
+    color: rgb(146, 223, 4);
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.699);
+    border-radius: 30px;
+    margin-top:auto ;
+    
+}
+
+a:hover{
+    color: skyblue;
+}
+about me{
+    background-color: aquamarine;
+    font-weight:bold;
+}
+h1{
+    font-size: 60px;
+    color: #ffffff;
+    margin-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+hr{
+    margin-bottom: 30px;
+}
+P{
+    margin-bottom: 25PX;
 }
