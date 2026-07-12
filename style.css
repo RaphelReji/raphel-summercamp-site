@@ -36,5 +36,14 @@ hr{
     margin-bottom: 30px;
 }
 P{
-    margin-bottom: 25PX;
+    margin-bottom: 30PX;
+}
+
+footer{
+    text-align: center;
+    padding:20px;
+    color: rgb(255, 255, 255);
+    border-radius: 30PX;
+    margin-top: 450px;
+
 }
